@@ -1,2 +1,16 @@
-
-Test
+{
+	"ocr": {
+		"address": "Achula Rao Lay-out, 1st Cross, ",
+		"name": "Naveen",
+		"email": [],
+		"mobile": [
+			"9844457748"
+		],
+		"website": [],
+		"Text": "Naveen D.A. Mobile Service Engineer 98444 57748 SUDHEER MOBILE SERVICES B Hardware & Software Achula Rao Lay-out, 1st Cross, Near Sagar Nursing Home, Jail Circle, Shimoga-1 ",
+		"bussinessname": "SUDHEER",
+		"pin": [],
+		"landline": [],
+		"wline": "Naveen D.A. $Mobile Service Engineer $98444 57748 $SUDHEER $MOBILE SERVICES $B Hardware & Software $Achula Rao Lay-out, 1st Cross, $Near Sagar Nursing Home, Jail Circle, Shimoga-1 $"
+	}
+}
